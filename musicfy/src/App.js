@@ -11,7 +11,7 @@ function App() {
 
   return(
     <div>
-      <h1> App Electron + React + Tugfa</h1>
+      <h1> App Electron + React + Ya me vale vrga</h1>
     </div>
   )
 }
